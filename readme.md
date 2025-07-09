@@ -2,8 +2,6 @@
 
 A detailed Exploratory Data Analysis of IPL matches from 2008 to 2020 using Python libraries like Pandas, Matplotlib, and Seaborn.
 
-![IPL Banner](https://yourimage.link/here.png) <!-- optional chart/banner -->
-
 ---
 
 ## 📁 Dataset
